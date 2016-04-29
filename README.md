@@ -1,7 +1,3 @@
 scripts
 =======
 
-
-### Requirements
-* Python
-* Biopython
